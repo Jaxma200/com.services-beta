@@ -1,0 +1,10 @@
+-----avatar equips
+
+item1= "hair":id=1
+bundle1 = "manbody" =2
+
+bundle1 = ("900x300")
+
+item1 = ("100x200"
+
+root.mainloop()
